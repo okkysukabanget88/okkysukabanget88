@@ -9,7 +9,7 @@
 
 ### 🧭 About Me
 
-I don't strictly box myself into a single label—whether it's Full-Stack Development, Cloud Infrastructure, or Product Management, I focus on **building complete web applications from upstream to downstream**. 
+I don't strictly box myself into a single label whether it's Full-Stack Development, Cloud Infrastructure, or Product Management, I focus on **building complete web applications from upstream to downstream**. 
 
 From architecting databases and writing application logic to spinning up cloud instances and managing servers, I thrive on turning concepts into live, production-ready platforms used by real people. By leveraging **AI as a force multiplier**, I accelerate development cycles without compromising on functionality and user value.
 
